@@ -1,0 +1,46 @@
+Zahrajte si na informační detektivy a zjistěte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor přiřazeny atributy a kdy byl vytvořen i změněn?
+    jen pro čtení, skrytý
+    vytvořen středa 6. listopadu 2024
+    změněn pátek 19. října 2012
+    b) V jakém znakovém kódování je uložen?
+    unicode
+    c) V jakém jazyce je napsán jeho obsah?
+    Japonština
+    d) O čem text pojednává a z jakého internetového zdroje pochází (ideálně uveďte přesnou URL adresu)?
+    text wikipedie o Vltavě
+    https://ja.wikipedia.org/wiki/???
+    
+2. Soubor city.jpg:
+    a) Jaké rozměry má tato fotka (v pixelech)?
+    1366x768
+    b) Jak se jmenuje město na obrázku?
+    Nairobi
+    c) Kde se toto město přesně nachází (uveďte stát i kontinent)?
+    Afrika Kenya
+    d) Zjistěte aspoň GPS souřadnice nejvyšší budovy na fotce?
+    01°18'00"S 36°48'47"E
+    e) Co se v této budově nachází?
+    International HQ of Britam
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+    24  900x900 
+    b) Kdo je na této fotografii (jméno, příjmení, národnost, povolání)?
+    Katalin Novák, Maďarská prezidentka, Maďarka
+    c) Uveďte adresu aspoň jednoho profilu této osoby na sociálních sítích.
+    https://x.com/katalinnovak_hu?lang=cs
+    d) Najděte na internetu co nejaktuálnější článek v českém jazyce, v němž je jméno této osoby zmíněno.
+    https://ct24.ceskatelevize.cz/tema/katalin-novakova-16090
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozměry tohoto obrázku?
+    8  580x327
+    b) Vlajka kterého státu je na obrázku? 
+    Bhútán
+    c) Najděte bližší informace o tomto státu: rozlohu, počet obyvatel, hlavní město
+    38394km2, 741700, Thimphu
+    d) Zjistěte přesné barvy (RGB v desítkové i šestnáctkové soustavě) obou trojúhelníkových bloků v pozadí vlajky. 
+    levý horní - 255,213,32 - FFD520
+    pravý dolní - 255,78,18 - FF4E12
