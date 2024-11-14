@@ -1,0 +1,11 @@
+1. Zjistěte detailní informace o staženém videoklipu:
+    a) Jména interpretů i název hudební skupiny. 2Cellos
+    b) Název skladby. Game of Thrones Main Theme
+    c) S jakým seriálem je tato skladba spojena? Kdo je autorem scénáře? Game of Thrones - Angus Wall
+    d) V kterém městě a státě se tento klip natáčel? Tušíte proč? Dubrovník
+    
+2. Použijte přehrávač VLC a editor Audacity, abyste:
+    a) Zjistili základní údaje o daném videu: rozlišení, délku, použité kodeky (zvuk i obraz)  640x360, 5:03, H.264 AAC
+    b) Oddělili z videa zvukovou stopu ve formátu MP3.  ano
+    c) Vytvořili zkrácenou zvukovou ukázku dlouhou přesně 30 sekund s postupným náběhem zvuku na začátku (efekt FadeIn) a zeslabením zvuku na konci (efekt FadeOut).
+      
